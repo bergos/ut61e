@@ -1,0 +1,27 @@
+{
+  "name": "ut61e",
+  "version": "0.1.0",
+  "description": "Stream interface for the UNI-T UT61E multimeter",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bergos/ut61e.git"
+  },
+  "keywords": [],
+  "author": "Thomas Bergwinkl <bergi@axolotlfarm.org> (https://www.bergnet.org/people/bergi/card#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bergos/ut61e/issues"
+  },
+  "homepage": "https://github.com/bergos/ut61e",
+  "dependencies": {
+    "byline": "^5.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.4.0"
+  }
+}
